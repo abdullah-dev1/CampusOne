@@ -48,3 +48,35 @@ Built using **Flutter** and **Firebase**, CampusOne leverages real-time cloud sy
 - 📱 Responsive Flutter UI
 - 🏗️ Feature-Based Clean Architecture
 - ⚡ Cross Platform Support
+
+- ---
+
+# 📱 Application Preview
+
+| Login | Admin Dashboard | Student Dashboard |
+|:------:|:---------------:|:-----------------:|
+| ![](assets/screenshots/login.png) | ![](assets/screenshots/admin_dashboard.png) | ![](assets/screenshots/student_dashboard.png) |
+| Secure Authentication | Administrator Panel | Student Dashboard |
+
+---
+
+| Lecturer Dashboard | Student Management | Lecturer Management |
+|:------------------:|:------------------:|:-------------------:|
+| ![](assets/screenshots/lecturer_dashboard.png) | ![](assets/screenshots/student_management.png) | ![](assets/screenshots/lecturer_management.png) |
+| Lecturer Portal | Student Records | Lecturer Records |
+
+---
+
+| Attendance | Grades | Notices |
+|:----------:|:------:|:-------:|
+| ![](assets/screenshots/attendance.png) | ![](assets/screenshots/grades.png) | ![](assets/screenshots/notices.png) |
+| Attendance Management | Grade Management | Notice Board |
+
+---
+
+| Course Management | Reports |
+|:-----------------:|:------:|
+| ![](assets/screenshots/course_management.png) | ![](assets/screenshots/reports.png) |
+| Academic Courses | Reports & Analytics |
+
+
