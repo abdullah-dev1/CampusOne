@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353261142637",
+    "project_id": "campusone-saas",
+    "storage_bucket": "campusone-saas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353261142637:android:150e8423dd411ff8467564",
+        "android_client_info": {
+          "package_name": "com.example.campusone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1z3DYqf99-_5q4bEGlTAQbj8BoUYFOxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

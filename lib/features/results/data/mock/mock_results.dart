@@ -1,0 +1,103 @@
+import '../models/result_model.dart';
+
+const List<ResultModel> resultList = [
+  // Spring 2026
+  ResultModel(
+    courseCode: "CS401",
+    courseTitle: "Artificial Intelligence",
+    creditHours: 3,
+    grade: "A",
+    gradePoint: 4.00,
+    semester: "Spring 2026",
+  ),
+  ResultModel(
+    courseCode: "CS402",
+    courseTitle: "Machine Learning",
+    creditHours: 3,
+    grade: "A-",
+    gradePoint: 3.67,
+    semester: "Spring 2026",
+  ),
+  ResultModel(
+    courseCode: "CS403",
+    courseTitle: "Computer Networks",
+    creditHours: 3,
+    grade: "B+",
+    gradePoint: 3.33,
+    semester: "Spring 2026",
+  ),
+  ResultModel(
+    courseCode: "CS404",
+    courseTitle: "Software Engineering",
+    creditHours: 3,
+    grade: "A",
+    gradePoint: 4.00,
+    semester: "Spring 2026",
+  ),
+  // Fall 2025
+  ResultModel(
+    courseCode: "CS301",
+    courseTitle: "Database Systems",
+    creditHours: 3,
+    grade: "A",
+    gradePoint: 4.00,
+    semester: "Fall 2025",
+  ),
+  ResultModel(
+    courseCode: "CS302",
+    courseTitle: "Operating Systems",
+    creditHours: 3,
+    grade: "B+",
+    gradePoint: 3.33,
+    semester: "Fall 2025",
+  ),
+  ResultModel(
+    courseCode: "CS303",
+    courseTitle: "Theory of Automata",
+    creditHours: 3,
+    grade: "A-",
+    gradePoint: 3.67,
+    semester: "Fall 2025",
+  ),
+  ResultModel(
+    courseCode: "CS304",
+    courseTitle: "Computer Organization",
+    creditHours: 3,
+    grade: "B",
+    gradePoint: 3.00,
+    semester: "Fall 2025",
+  ),
+  // Spring 2025
+  ResultModel(
+    courseCode: "CS201",
+    courseTitle: "Data Structures",
+    creditHours: 3,
+    grade: "A",
+    gradePoint: 4.00,
+    semester: "Spring 2025",
+  ),
+  ResultModel(
+    courseCode: "CS202",
+    courseTitle: "Object Oriented Programming",
+    creditHours: 3,
+    grade: "A-",
+    gradePoint: 3.67,
+    semester: "Spring 2025",
+  ),
+  ResultModel(
+    courseCode: "CS203",
+    courseTitle: "Digital Logic Design",
+    creditHours: 3,
+    grade: "B+",
+    gradePoint: 3.33,
+    semester: "Spring 2025",
+  ),
+  ResultModel(
+    courseCode: "CS204",
+    courseTitle: "Discrete Structures",
+    creditHours: 3,
+    grade: "A",
+    gradePoint: 4.00,
+    semester: "Spring 2025",
+  ),
+];

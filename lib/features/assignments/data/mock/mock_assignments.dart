@@ -1,0 +1,53 @@
+import 'package:flutter/material.dart';
+import '../models/assignment_model.dart';
+
+const List<AssignmentModel> assignmentList = [
+  AssignmentModel(
+    id: "A001",
+    title: "Binary Search Tree Implementation",
+    subject: "Data Structures",
+    lecturer: "Dr. Ahmed",
+    dueDate: "18 July 2026",
+    remainingDays: 4,
+    submitted: false,
+    late: false,
+    progress: .65,
+    color: Color(0xff2563EB),
+  ),
+  AssignmentModel(
+    id: "A002",
+    title: "Database Normalization Report",
+    subject: "Database Systems",
+    lecturer: "Dr. Ali",
+    dueDate: "20 July 2026",
+    remainingDays: 6,
+    submitted: false,
+    late: false,
+    progress: .30,
+    color: Color(0xff22C55E),
+  ),
+  AssignmentModel(
+    id: "A003",
+    title: "AI Search Algorithms",
+    subject: "Artificial Intelligence",
+    lecturer: "Dr. Bilal",
+    dueDate: "13 July 2026",
+    remainingDays: 0,
+    submitted: true,
+    late: false,
+    progress: 1,
+    color: Color(0xff8B5CF6),
+  ),
+  AssignmentModel(
+    id: "A004",
+    title: "Memory Management Report",
+    subject: "Operating Systems",
+    lecturer: "Dr. Hassan",
+    dueDate: "11 July 2026",
+    remainingDays: -2,
+    submitted: false,
+    late: true,
+    progress: .85,
+    color: Color(0xffEF4444),
+  ),
+];
